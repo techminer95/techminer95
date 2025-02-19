@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Full-Stack Developer with 8 years of experience delivering high-quality web and mobile applications. Proficient in advanced frontend technologies such as React, Next.js, and Angular, paired with backend frameworks like NestJS, Spring Boot, and FastAPI. Skilled in database design and optimization using PostgreSQL, MongoDB, and Redis, and experienced in deploying scalable applications on cloud platforms like AWS and Google Cloud using Kubernetes and Terraform. Emerging expertise in blockchain development with Solidity, Rust, and the Substrate framework for DeFi projects. Committed to leveraging cutting-edge tools to build secure, efficient, and user-centric solutions.</p>
+<p align="center">Full-Stack Developer delivering high-quality web and mobile applications. Proficient in advanced frontend technologies such as React, Next.js, and Angular, paired with backend frameworks like NestJS, Spring Boot, and FastAPI. Skilled in database design and optimization using PostgreSQL, MongoDB, and Redis, and experienced in deploying scalable applications on cloud platforms like AWS and Google Cloud using Kubernetes and Terraform. Emerging expertise in blockchain development with Solidity, Rust, and the Substrate framework for DeFi projects. Committed to leveraging cutting-edge tools to build secure, efficient, and user-centric solutions.</p>
 
 ###
 
